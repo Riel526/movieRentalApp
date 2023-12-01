@@ -1,0 +1,33 @@
+[
+    {
+      "customerId": 1,
+      "customerFirstName": "Jose",
+      "customerLastName": "Rizal",
+      "customerRentedMovies": 0
+    },
+    {
+      "customerId": 2,
+      "customerFirstName": "Andres",
+      "customerLastName": "Bonifacio",
+      "customerRentedMovies": 5
+    },
+    {
+      "customerId": 3,
+      "customerFirstName": "Apolinario",
+      "customerLastName": "Mabini",
+      "customerRentedMovies": 2
+    },
+    {
+      "customerId": 4,
+      "customerFirstName": "Juan",
+      "customerLastName": "Luna",
+      "customerRentedMovies": 3
+    },
+    {
+      "customerId": 5,
+      "customerFirstName": "Emilio",
+      "customerLastName": "Aguinaldo",
+      "customerRentedMovies": 1
+    }
+  ]
+  

@@ -1,0 +1,33 @@
+[
+    {
+      "movieId": 1,
+      "movieName": "Dungeons and Dragons",
+      "movieStock": 5,
+      "movieRentStatus": 1
+    },
+    {
+      "movieId": 2,
+      "movieName": "Murder Mystery 2",
+      "movieStock": 10,
+      "movieRentStatus": 1
+    },
+    {
+      "movieId": 3,
+      "movieName": "Hunger",
+      "movieStock": 0,
+      "movieRentStatus": 0
+    },
+    {
+      "movieId": 4,
+      "movieName": "Evil Dead Rise",
+      "movieStock": 2,
+      "movieRentStatus": 1
+    },
+    {
+      "movieId": 5,
+      "movieName": "Unlocked",
+      "movieStock": 1,
+      "movieRentStatus": 1
+    }
+  ]
+  
